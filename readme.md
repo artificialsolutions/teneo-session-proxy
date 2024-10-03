@@ -1,5 +1,9 @@
 # Teneo Session Proxy
 
+> [!IMPORTANT]
+> This project has been retired and archived  
+> If there is a need of continued use / development of this project for your own needs please feel free to fork the project - which will remain here in archived form.
+
 This proxy is only to be used from environments where the recommended session handling is not available. 
 This approach relies on the client being able to manipulate query strings from a URL.
 
